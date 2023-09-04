@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.156f780a.css",
+    "main.js": "/My-Portfolio/static/js/main.79e092e7.js",
+    "static/media/Sher-DP.png": "/My-Portfolio/static/media/Sher-DP.68ef30507853441bc64d.png",
+    "static/media/SHERSINGH-CV.pdf": "/My-Portfolio/static/media/SHERSINGH-CV.d6d8c9c92cc3e20d39de.pdf",
+    "static/media/about-img.JPG": "/My-Portfolio/static/media/about-img.4a583bf375c85dc76c6f.JPG",
+    "static/media/client3.jpg": "/My-Portfolio/static/media/client3.80ed401ec6649d426477.jpg",
+    "static/media/client1.jpg": "/My-Portfolio/static/media/client1.b01582165d82e1074011.jpg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.156f780a.css.map": "/My-Portfolio/static/css/main.156f780a.css.map",
+    "main.79e092e7.js.map": "/My-Portfolio/static/js/main.79e092e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156f780a.css",
+    "static/js/main.79e092e7.js"
+  ]
+}

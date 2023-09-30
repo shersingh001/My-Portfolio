@@ -14,7 +14,7 @@ const Social = () => {
 			</a>
 
 			<a
-				href="https://www.linkedin.com/feed/"
+				href="www.linkedin.com/in/sher-singh-rajpurohit-189746238"
 				rel="noreferrer"
 				className="home__social-icon"
 				target="_blank"

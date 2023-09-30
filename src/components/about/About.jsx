@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import ProfileDP from "../../assets/about-img.JPG";
+import Demo from "../../assets/Demo-pic.jpg";
 import CV from "../../assets/SHERSINGH-CV.pdf";
 import Info from "./Info";
 
@@ -14,7 +14,7 @@ const About = () => {
 			<span className="section__subtitle">My instroduction</span>
 			<div className="about__container container grid">
 				<img
-					src={ProfileDP}
+					src={Demo}
 					alt="profile-img"
 					className="about__img"
 				/>

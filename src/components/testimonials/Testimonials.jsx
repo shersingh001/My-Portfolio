@@ -20,7 +20,7 @@ const Testimonials = () => {
 
 			<Swiper
 				loop={true}
-				spaceBetween={24}
+				spaceBetween={40}
 				centeredSlides={true}
 				autoplay={{
 					delay: 2000,

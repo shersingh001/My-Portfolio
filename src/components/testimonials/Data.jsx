@@ -26,4 +26,12 @@ export const Data = [
 		description:
 			"A really good job, all aspects of the project were followed step by step and with good resulst",
 	},
+
+	{
+		id: 4,
+		image: Img2,
+		title: "Thomas",
+		description:
+			"A really good job, all aspects of the project were followed step by step and with good resulst",
+	},
 ];
